@@ -1,3 +1,4 @@
+feature branch
 or create a new repository on the command line:
 echo "# my-repo" >> README.md
 git init
@@ -16,7 +17,10 @@ git push -u origin main
 
 
 
+feature
+=======
 
 git checkout <branch name> #to switch b/w branches
 git checkout -b <new branch name>
 
+main
